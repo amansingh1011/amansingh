@@ -1,0 +1,145 @@
+---
+title: "Aman Singh"
+image: "qwertq.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/aman-singh-334b6b21/"
+  - label: Email
+    url: "mailto:aman939@gmail.com"
+  - label: Twitter
+    url: "https://twitter.com/aman939"
+  - label: GitHub
+    url: "https://github.com/amansingh1011"
+output:
+  postcards::trestles
+---
+ 
+##### Bio
+
+Highly skilled mid-senior professional, offering 5.5 years of experience in project, service & delivery management, and process transformation & execution; Involved in development, monitoring & controlling projects concerning resource deployment, time overruns and quality compliance to ensure satisfactory execution of projects in renewable energy and Discom segments.
+
+
+##### Key work areas
+
+RENEWABLE ENERGY | UTILITY DOMAIN | POWER MARKETS | DIGITAL TRANSFORMATION & STRATEGY
+
+Power demand and renewable power generation forecasting, power scheduling algorithms, software product development and delivery of customized solutions for renewable energy IPPs and distribution companies, direct interaction with mid-level and senior executives in client organization.
+
+##### Profile Summary 											
+
+•	Headed a team of professional in designing Tech Solution for Forecasting & Scheduling of Renewable Energy (RE) Generators, Load Forecasting and Scheduling Products for DISCOMs and SLDCs, EPM Strategies.  
+
+•	Involved in Architecture, Design, Development, Leading the team for further development & support for various Solutions related to Forecasting & Scheduling, CMS in RE Sector.
+
+•	Involved in planning and execution of Utility domain solutions for India’s largest State (population basis) and Capital of the country i.e UPPCL, BRPL, BYPL, PSPCL etc.
+
+•	Successfully developed product for RE Forecasting under DSM running over 20+ Plants to name few Acme, Azure, Softbank etc.
+
+•	Experienced in project management and operation activities including project scoping, estimation, planning, risk management, finalization of technical /functional specifications, resource administration
+
+•	Led a team i.e Technology, Data Science, Meteorological and Energy Analyst in developing various Products; provided direction, motivation & training to ensure optimum performance.
+
+•	Liaised with clients, internal teams (Software Developers, Data Scientists, Meteorologist, IT) for requirement and its development
+
+•	Direct client engagement and fabricating solution.
+
+
+##### Experience
+
+**Regent Climate Knowledge Solutions Private Limited (Subsidiary of ReNew Power Private Limited), Delhi/Gurgaon** | Delivery Manager | August 2020 - Present
+
+Role:
+
+•	Managing and developing Andaman F&S software with GE and PGCIL
+
+•	Managing and developing Telangana REMC software with ABB and PGCIL
+
+•	Managing and developing J&K forecasting software with GE and J&K SLDC team
+
+•	Consultation and development for an in-house product like Virtual Trading Platform(idea phase) and Demand response system idea discussion with a client(future scope) 
+
+Highlights:
+
+•	Developing in-house Virtual Trading Platform (idea phase) with team.
+
+•	Accomplished the Site Acceptance Test (SAT) for Andaman demand and renewable generation Forecasting & Scheduling software.
+
+•	Accomplished the Factory Acceptance Test (FAT) for Telangana Renewable Energy Management Center (REMC) software.
+
+•	Accomplished the Factory Acceptance Test (FAT) for Jammu & Kashmir state demand forecasting software.
+
+
+**Regent Climate Knowledge Solutions Private Limited, Pune/Delhi** | Utilities Delivery Head | November 2018 - August 2020
+
+Role:
+
+•	Developing products & solution for F&S, EPM for the Power sector (DISCOM).
+
+•	Interfacing between client & company; assessing client & market needs and preparing products and solutions
+
+•	Managing the business relationship with Discom/SLDC
+
+•	Providing technical solutions for Load Forecasting and scheduling products for DISCOMs and SLDC
+
+•	Coordinating with client & internal team (Data Scientists, Meteorologist, IT Team) for driving improvement in the forecasting module
+
+•	Working with energy and power analyst to build the logic for scheduling of Discom/SLDC
+
+•	Implemented a Loss Reduction Activity Impact project at a Delhi‑based Distribution Company. The primary focus was on the gain in energy and further observing the financial gain
+
+Highlights:
+
+•	Overall 30,000 MW of load forecasting contract was awarded, which included Uttar Pradesh, BRPL, BYPL and TPDDL
+
+
+**Regent Climate Knowledge Solutions Private Limited, Pune/Delhi** | Product Development Analyst | November 2017 - October 2018
+
+Role:
+
+•	Second in line to a product manager; developing products & solution for F&S, Asset Management Renewable Energy Sector
+
+•	Interfacing between client, product manager & company internal team; assessing client & market needs and preparing products and solutions
+
+•	Guiding Tech Team and Data Scientists for developing product
+
+•	Managing the business relationship with the client, RE generators/SLDCs
+
+•	Analyzing weather models and evaluating real-time Solar Data and improving upon the forecasting accuracy; setting up and managing Operation Centre 7*52
+
+•	Coordinating with clients, product manager & internal team (Data Scientists, Meteorologists, and IT Team) for driving improvement in the forecasting module
+
+Highlights:
+
+•	Directed a team to develop Load and Scheduling Product & RE Forecasting and Scheduling Product  
+
+•	Steered efforts made for the company to get Series A Funding and gave the highest rating to the product
+
+
+**Regent Climate Knowledge Solutions Private Limited, Delhi** | Market Analyst | September 2016 - October 2017
+
+Role:
+
+•	Worked on the development of data information portals targeted at the Indian power market called “India Power Trading”
+
+•	Worked with a team of Energy Analysts and Software Analysts to develop India’s only analytical publication on the trends of the short‑term power market (Morning Megawatt)
+
+•	Worked for the development of India’s first and only publication that tracked daily renewable energy generation at the State and National level (Green Megawatt)
+
+•	Helped Data Scientists with the development of day‑ahead market price forecast for IEX from the domain end.
+
+Highlights:
+
+•	Managed to have a good paid client base for the daily reports and the web portal.	
+
+
+##### Education
+
+
+**University of Petroleum & Energy Studies** | Dehradun, India
+
+M.Tech in Energy System | 2014 - 2016
+
+
+**Uttar Pradesh Technical University** | Mathura, India
+
+B.Tech in Mechanical Engineering | 2007 - 2011
