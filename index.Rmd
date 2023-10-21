@@ -16,16 +16,18 @@ output:
  
 ##### Bio
 
-Highly skilled mid-senior professional, offering 5.5 years of experience in project, service & delivery management, and process transformation & execution; Involved in development, monitoring & controlling projects concerning resource deployment, time overruns and quality compliance to ensure satisfactory execution of projects in renewable energy and Discom segments.
+Highly skilled mid-senior professional, offering 7 years of experience in project, product service & delivery management, and process transformation & execution; Involved in development, monitoring & controlling projects concerning resource deployment, time overruns and quality compliance to ensure satisfactory execution of projects in VCM , Renewable energy and Discom segments.
 
 
 ##### Key work areas
 
-RENEWABLE ENERGY | UTILITY DOMAIN | POWER MARKETS | DIGITAL TRANSFORMATION & STRATEGY
+Carbon Markets | Renewable Energy | Utility Domian | Power Market | Market Research | Product Management & Design | Digital Transformation & Strategy 
 
-Power demand and renewable power generation forecasting, power scheduling algorithms, software product development and delivery of customized solutions for renewable energy IPPs and distribution companies, direct interaction with mid-level and senior executives in client organization.
+Voluntary carbon market instrument trading and risk assessment, Power demand and renewable power generation forecasting, Power scheduling algorithms, Software product development and delivery of customized solutions for renewable energy IPPs and distribution companies, direct interaction with mid-level and senior executives in client organization.
 
 ##### Profile Summary 											
+
+• Trading and risk assessment for instruments of voluntary carbon market.
 
 •	Headed a team of professional in designing Tech Solution for Forecasting & Scheduling of Renewable Energy (RE) Generators, Load Forecasting and Scheduling Products for DISCOMs and SLDCs, EPM Strategies.  
 
@@ -46,27 +48,54 @@ Power demand and renewable power generation forecasting, power scheduling algori
 
 ##### Experience
 
-**Regent Climate Knowledge Solutions Private Limited (Subsidiary of ReNew Power Private Limited), Delhi/Gurgaon** | Delivery Manager | August 2020 - Present
+**Regent Climate Knowledge Solutions Private Limited (Subsidiary of ReNew Power Private Limited), Delhi/Gurgaon** | Senior Manager in Research and Strategy | April 2022 - Present
 
 Role:
 
-•	Managing and developing Andaman F&S software with GE and PGCIL
+•	Establishing the Carbon Trading Department in the company and focusing on risk analysis and market research within the domain.
 
-•	Managing and developing Telangana REMC software with ABB and PGCIL
+•	Managed carbon credit demand and supply aggregation within the company's portfolio.
 
-•	Managing and developing J&K forecasting software with GE and J&K SLDC team
+•	Initiating connections with brokers and suppliers (generators) to facilitate the buying and selling of carbon credits.
 
-•	Consultation and development for an in-house product like Virtual Trading Platform(idea phase) and Demand response system idea discussion with a client(future scope) 
+•	Managing the project screening process, before taking it on the company portfolio.
+
+•	Execute trading activities across multiple platforms, including broker channels and direct transactions with originators.
+
+•	Calculated Demand breakdown, Supply side aggregation, portfolio-level VaR , Mark to Market, Inventory Management, and PnL calculations.
+
+•	Computing value at risk (VaR) for both long and short positions, leveraging parametric and non-parametric methods.
+
+•	Generated daily and weekly carbon insight reports, featuring essential metrics and indicators in a concise and easily digestible format. Conducted comparative analysis with historical data and benchmarks for trend assessment.
+
+•	Delivered weekly portfolio reports to company stakeholders to ensure transparency and effective communication of trading activities.
+
+•	Consulted with the United Kingdom electricity retail max team to shape and refine ideas on procurement, financial management, and risk assessment for the implementation of the Champion Energy pilot project.
 
 Highlights:
 
-•	Developing in-house Virtual Trading Platform (idea phase) with team.
+•	Instrumental in establishing the Carbon Trading department, now managing a $3 million portfolio within the organization. Consequently, the trading/procurement team achieved a consistently positive PnL for the company portfolio.
 
-•	Accomplished the Site Acceptance Test (SAT) for Andaman demand and renewable generation Forecasting & Scheduling software.
 
-•	Accomplished the Factory Acceptance Test (FAT) for Telangana Renewable Energy Management Center (REMC) software.
+**Regent Climate Knowledge Solutions Private Limited (Subsidiary of ReNew Power Private Limited), Delhi/Gurgaon** | Delivery Manager | August 2020 - March 2022
 
-•	Accomplished the Factory Acceptance Test (FAT) for Jammu & Kashmir state demand forecasting software.
+Role:
+
+•	Lead Product Manager for the Andaman Energy Management Center software in collaboration with Power Grid Corporation of India (PGCIL) and General Electric (GE), overseeing its development and strategic growth within the electricity domain.  
+
+•	Directed the management and development of the Telangana Renewable Energy Management Center software in collaboration with Power Grid Corporation of India (PGCIL) and Asea Brown Boveri (ABB), ensuring its alignment with industry needs and standards.  
+
+•	Drove the management and development of the forecasting software for Jammu and Kashmir in partnership with J&K SLDC and General Electric (GE), enhancing forecasting accuracy within the electricity sector.
+
+•	Provided consultation and development leadership for an in-house product, the Virtual Trading Platform for renewable generators (Concept Phase) facilitating efficient energy trading in the renewable energy market.
+
+Highlights:
+
+•	Successfully achieved the Site Acceptance Test (SAT) for the Andaman demand and renewable generation Forecasting & Scheduling software, ensuring its operational readiness and reliability.
+
+•	Attained a significant milestone by accomplishing the Factory Acceptance Test (FAT) for the Telangana Renewable Energy Management Center (REMC) software, demonstrating its robustness and adherence to industry standards.
+
+•	Demonstrated expertise by accomplishing the Factory Acceptance Test (FAT) for the Jammu & Kashmir state demand forecasting software, ensuring its accuracy and reliability in forecasting electricity demand within the region.
 
 
 **Regent Climate Knowledge Solutions Private Limited, Pune/Delhi** | Utilities Delivery Head | November 2018 - August 2020
